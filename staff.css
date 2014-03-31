@@ -1,0 +1,189 @@
+div#photogallery {
+height: 300px;
+width: 740px;
+margin: 0px 0px 0px 231px;
+padding: 0px;
+padding-left: 10px;
+border: solid #000066 0px;
+}
+
+div#ugoridlogo {
+height: 70px;
+width: 990px;
+padding: 0px;
+padding-bottom: 20px;
+margin-top: 10px;
+border: solid #12564c 0px;
+margin: auto;
+}
+div#mainbody {
+background-image: none;
+width: auto;
+background-attachment: fixed;
+margin: auto;
+height: auto;
+padding-top: 5px;
+
+}
+div#maincontent {
+	padding: 0px 0px;
+	margin: auto;
+	height: auto;
+	border: solid lightgrey 1px;
+	background-color: #FFF transparent;
+	width: 991px;
+	color: #12564c;
+	border-style: ridge;
+	/*-moz-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 2px #000;*/
+}
+/*
+#fillcolor2 {
+	width: 992px;
+	height: 30px;
+	background-color: #000066;
+	background-image: url(images/background/newdiv.png);
+	background-repeat: repeat;
+	color: orange;
+	text-align: center;
+	margin: auto;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+
+}*/
+
+div#welcomeheader {
+width: 760;
+height: 20px;
+text-align: center;
+/*font-style: oblique;*/
+font-family: Arial, Lucida Grande, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+word-spacing: 1ex;
+/*background-image: url(images/background/newdiv.png);
+background-repeat: repeat;*/
+color: #000066;
+padding-left: 10px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+border-bottom: solid 1px #b08b57;
+background-color: #ffffff;
+}
+
+div#content {
+height: auto;
+width: auto;					
+border: solid lightgrey 1px;
+position: relative;
+font-family: Candara, Trebuchet MS, Lucida Grande, sans-serif;
+font-size: 12px;
+/*line-height: 17px;*/
+padding-left: 210px;
+padding-right: 5px;
+color: #444444;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+text-align: justify;
+
+}
+
+div#homesearch {
+width: 760px;
+height: 25px;
+border: solid #000 0px;
+position: relative;
+margin-top: 50px 0px 0px 230px;
+/*background-image: url(images/background/newdiv.png);
+background-repeat: repeat;*/
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+
+}
+
+div#ughome {									
+position: absolute;
+height: 25px;
+width: 100px;
+border: solid #000 0px;
+text-align: left;
+padding-left: 0px;
+margin-left: 230px;
+}
+div#search {
+position: absolute;
+height: 25px;
+width: 300px; 
+border: solid #000 0px;
+margin: 1px 0px 0px 693px;
+}
+div#lefttab{
+width: 200px;
+height: 160px;
+color: orange;
+border-style: outset;
+text-align: center;
+margin: 10px 0px 0px 0px;
+border: solid #87CEFA 1px;
+position: absolute;
+}
+
+div#amofah, div#ayeboah , div#ebaryeh, div#iafriyie, div#gannan{
+width: 176px;
+height: 207px;
+margin: 10px 5px 0px 5px;
+float: left;
+}
+
+div#nwcontent {
+margin: 50px 0px 0px 230px;
+word-spacing: 0.3em;
+border: solid lightgrey 1px;
+position: relative;
+font-family: Candara, Trebuchet MS, Lucida Grande, sans-serif;
+font-size: 12px;
+line-height: 16px;
+width: 745;
+color: #444444;
+padding-left: 5px;
+padding-right: 5px;
+height: auto;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+text-align: justify;
+}
+
+
+div#fill2 {
+border: solid #000066 0px;
+width: auto;
+
+margin: auto;
+background-color: none;
+}
+/* Vertical Menu Display */
+#button {
+	width: 160px;
+	margin-left: 0px;
+	margin-top: 0px;
+	position: relative;
+	height: auto;
+	border: solid #000 0px;
+	float: left;
+}
+
+
+/* Page footer */
+#footer {
+	width: auto;
+	height: 30px;
+	background-color: #000066;
+	color: #b08b57;
+	text-align: center;
+	position: relative;
+	margin: auto;
+	/*border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;*/
+
+}

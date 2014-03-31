@@ -1,0 +1,94 @@
+.jquerycssmenu{
+background:#010066;
+font: 11px Arial;
+border-bottom: 0px solid black;
+padding-left: 0px; /*offset of tabs relative to browser left edge*/
+margin: 0px 0px 0px 0px;
+padding-top:6px;
+}
+
+.jquerycssmenu ul{
+margin: auto;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.jquerycssmenu ul li{
+position: relative;
+display: inline;
+float: right;
+}
+
+/*Top level menu link items style*/
+.jquerycssmenu ul li a{
+display: block;
+/*background: url(images/background/newdiv.png) top center repeat; /*background of tabs (default state)*/
+padding: 5px 3px 4px 3px;
+margin-right: 5px; /*spacing between tabs*/
+border: 0px solid #778;
+border-right: dotted 1px #b08b57;
+border-bottom-width: 0;
+color: #ffffff;
+text-decoration: none;
+background-color: #010066;
+}
+
+.jquerycssmenu ul li a:hover{
+/*background-image: url(tintbluedark.gif) /*tab link background during hover state*/
+background-color: #ffffff;
+color: #010066;
+}
+	
+/*1st sub level menu*/
+.jquerycssmenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+border-top: 1px solid black;
+z-index: 250;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jquerycssmenu ul li ul li{
+display: list-item;
+float: none;
+position: relative;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jquerycssmenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jquerycssmenu ul li ul li a{
+font: normal 13px Verdana;
+width: 160px; /*width of sub menus*/
+color: #ffffff;
+padding: 4px 5px;
+margin: 0;
+border-top-width: 0;
+border-bottom: 1px solid black;
+}
+
+.jquerycssmenu ul li ul li a:hover{ /*sub menus hover style*/
+background-color: ##010066;
+color: #b08b57;
+}
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 7px;
+right: 5px;
+background-image: url(images/navimages/navdown_blue.gif);
+}
+
+.rightarrowclass{
+position: absolute;
+top: 5px;
+right: 0px;
+}

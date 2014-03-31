@@ -1,0 +1,102 @@
+#fillcolor {
+	width: 992px;
+	height: 30px;
+	background-image: none;
+	color: orange;
+	text-align: center;
+	/*border-top-right-radius: 10px;
+	border-top-left-radius: 10px;*/
+
+}
+
+div#photogallery {
+height: 300px;
+width: 740px;
+margin: 0px 0px 0px 231px;
+padding: 0px;
+padding-left: 10px;
+border: solid #000066 5px;
+}
+
+div#ugoridlogo {
+height: 70px;
+width: 990px;
+padding: 0px;
+padding-bottom: 20px;
+margin-top: 10px;
+border: solid #12564c 0px;
+margin: auto;
+}
+div#mainbody {
+background-image: none;
+background-repeat: repeat;
+width: auto;
+background-attachment: fixed;
+margin: auto;
+padding-top: 5px;
+}
+
+div#lefttab{
+width: 200px;
+height: 160px;
+color: orange;
+border-style: outset;
+text-align: center;
+margin: 10px 0px 0px 0px;
+border: solid #87CEFA 1px;
+position: absolute;
+}
+
+/* Link style for list Items in form page */
+.clink {
+list-style: none;
+font-size: 12px;
+font-family: Candara, Trebuchet MS, Lucinda Grande, sans-serif;
+margin-left: 5px;
+margin-right: 0px;
+padding-left: 10px;
+padding-right: 0px;
+}
+
+.clink a {
+color: #444444;
+font-size: 12px;
+font-family: Candara, Trebuchet MS, Lucinda Grande, sans-serif;
+font-style: italic;
+
+}
+
+.clink a:hover {
+color: blue;
+font-weight: bold;
+}
+
+div#fill2 {
+border: solid #000066 0px;
+width: auto;
+
+margin: auto;
+background-image: none;
+background-repeat: repeat;
+
+}
+
+
+/* Vertical Menu Display */
+#button {
+	width: 200px;
+	margin-top: 0px;
+	position: absolute;
+	height: auto;
+	border: solid #000 0px;
+}
+
+/* Page footer */
+#footer {
+	width: auto;
+	height: 30px;
+	background-color:#000066;
+	background-repeat: repeat;
+	color: #b08b57;
+	text-align: center;
+}

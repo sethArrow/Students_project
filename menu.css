@@ -1,0 +1,325 @@
+div#photogallery {
+height: 300px;
+width: 740px;
+margin: 0px 0px 0px 231px;
+border: solid #000066 2px;
+padding-right:5px;
+}
+
+/*div#fill2 {
+border: solid #000 0px;
+width: auto;
+height: 26px;
+margin: auto;
+background-image: url(images/background/bg.jpg);
+background-repeat: repeat;
+}*/
+
+div#ugoridlogo {
+height: 70px;
+width: 990px;
+padding: 0px;
+padding-bottom: 20px;
+margin-top: 10px;
+border: solid #12564c 0px;
+margin: auto;
+}
+div#mainbody {
+background-image: none;
+background-repeat: repeat;
+width: auto;
+background-attachment: fixed;
+margin: auto;
+height: auto;
+padding-top: 5px;
+
+}
+div#maincontent {
+padding: 0px 0px;
+margin-left: 5px;
+margin: auto;
+height: auto;
+border: solid #12564c 0px;
+background-color: #ffffff;
+width: 992px;
+color: #12564c;
+/*border-left: solid 1px #12564c;*/
+border-left-style: ridge;
+/*border-right: solid 1px #12564c;*/
+border-right-style: groove;
+/*-moz-border-radius:10px;  /* for Firefox */
+/*border-radius:10px;
+box-shadow: 5px 5px 2px #000;*/
+}
+
+div#content {
+height: auto;
+width: 579px;					
+border: solid #87CEFA 0px;
+margin: 0px 0px 0px 210px;
+position: relative;
+font-family: Candara, Trebuchet MS, Lucida Grande, sans-serif;
+font-size: 12px;
+font-style: normal;
+padding-left: 0px;
+padding-right: 0px;
+color: #444444;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-align: justify;
+}
+
+div#welcomeheader {
+width: 760px;
+margin-left: 230px;
+height: 20px;
+text-align: center;
+/*font-style: oblique;*/
+font-family: Arial, Lucida Grande, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+word-spacing: 1ex;
+font-size: 11px;
+/*background-image: url(images/background/bg.jpg);
+background-repeat: repeat;*/
+color: #000066;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom: solid 1px #b08b57;
+background-color: #ffffff;
+}
+div#provcimage {
+height: 220px;
+width: 133px;					
+border: solid #000 0px;
+margin: 20px 5px 0px 5px;
+float: left;
+position: relative;
+-moz-border-radius:10px;  /* for Firefox */
+border-radius:10px;
+}
+
+/*div#welcomemessage {
+	position: relative;
+	margin: 0px 0px 0px 0px;
+	padding-left: 5px;
+	border: solid #000 0px;
+}*/
+
+div#welcomenote {
+font-style: normal;
+font-family: serif;
+margin: 5px 0px 10px 188px;
+font-size: 11px;
+border: solid #000 0px;
+position: relative;
+-moz-border-radius:10px;  /* for Firefox */
+border-radius:10px;
+width: 600px;
+}
+div#sidelinks {
+height: 650px;
+width: 185px;
+border-right: 5px;
+border-left: 5px;
+border-top: 5px;
+position: absolute;
+margin: 10px 10px 0px 801px;
+-moz-border-radius:10px;  /* for Firefox */
+border-radius:10px;
+
+}
+
+div#ne {
+position: absolute;
+width: 185px;
+height: 625px;
+border-left: solid lightgrey 1px;
+border-right: solid lightgrey 1px;
+border-top: solid lightgrey 1px;
+font-family: Candara, Verdana, Lucinda Grande, Sans-serif;
+/*-moz-border-radius:10px;  /* for Firefox */
+/*border-radius:10px;*/
+margin-top: 10px;
+}
+div#newsevents {
+position: absolute;
+width: 185px;
+height: 20px;
+background-color: #000066;
+background-repeat: repeat;
+border: solid lightgrey 1px;
+text-align: center;
+font-weight: bold;
+font-size: small;
+font-family: Candara, Verdana, Lucinda Grande, Sans-serif;
+border-style: outset;
+color: #b08b57;
+/*-moz-border-radius:10px;  /* for Firefox */
+/*border-radius:10px;*/
+}
+div#events {
+position: absolute;
+width: 185px;
+height: auto;
+font-size: 10px;
+font-family: Candara, Trebuchet MS, Lucinda Grande, Sans-serif;
+margin-top: 218px ;
+padding-top: 10px;
+/*padding-left: 5px;
+border-left: solid #125654 1px;
+border-right: solid #125654 1px;
+border-top: solid #125654 1px;*/
+}
+
+div#rightcol {
+height: 325px;
+width: 185px;
+border: solid #000000 5px;
+position: absolute;
+margin: 490px 788px 0px 10px;
+-moz-border-radius:10px;  /* for Firefox */
+border-radius:10px;
+font-size: 11px;
+font-family: Arial, Lucinda Grande, Sans-serif;
+}
+
+div#ql {
+position: absolute;
+width: 200px;
+height: 320px;
+border-left: solid lightgrey 1px;
+border-right: solid lightgrey 1px;
+border-top: solid lightgrey 1px;
+margin: 490px 788px 0px 5px;
+font-size:small;
+font-family: Candara, Trebuchet MS, Lucinda Grande, Sans-serif;
+text-align: left;
+/*-moz-border-radius:10px;  /* for Firefox */
+/*border-radius:10px;*/
+}
+div#qlinks {
+position: absolute;
+width: 200px;
+height: 20px;
+background-color: #000066;
+background-repeat: repeat;
+border: solid lightgrey 1px;	
+text-align: center;
+font-weight: bold;
+font-size: 11px;
+font-family: Candara, Trebuchet MS, Lucinda Grande, Sans-serif;
+border-style: outset;
+color: #b08b57;
+/*-moz-border-radius:10px;  /* for Firefox */
+/*border-radius:10px;*/
+}
+
+div#homesearch {
+width: 760px;
+height: 25px;
+border: solid #000 0px;
+position: relative;
+/*background-image: url(images/background/bg.jpg);
+background-repeat: repeat;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;*/
+margin-top: 20px;
+}
+div#ughome {									
+position: absolute;
+height: 25px;
+width: 100px;
+border: solid #000 0px;
+text-align: left;
+padding-left: 0px;
+}
+div#search {
+position: absolute;
+height: 25px;
+width: 350px; 
+border: solid #000 0px;
+margin: 0px 0px 10px 640px;
+}
+div#subscr {
+position: relative;
+width: auto;
+height: 180px;
+border: solid #125654 0px;
+margin: 20px 0px 0px 0px;
+background-color: #312D2D;
+border-collapse: collapse;
+padding-left: 10px;
+}
+
+div#fillcolor {
+width: 100%;
+height: 10px;
+background-image: none;
+background-repeat: repeat;
+
+}
+
+/*#fillcolor2 {
+	width: 992px;
+	height: 30px;
+	background-image: url(images/background/bg.jpg);
+	background-repeat: repeat;
+	color: #ffffff;
+	text-align: center;
+	-moz-border-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}*/
+
+.link {
+color: #444444;
+}
+
+
+.link a:link{
+color: #444444;
+font-size: small;
+}
+
+.link a:hover{
+color: blue;
+font-weight: bold;
+
+}
+
+/* Vertical Menu Display*/ 
+#button {
+	width: 200px;
+	margin-top: 0px;
+	position: absolute;
+	height: auto;
+	-moz-border-radius:10px;  /* for Firefox */
+	border-radius:10px;
+}
+
+/* Page footer */
+#footer {
+	width: auto;
+	height: 30px;
+	/*background-image: url(images/background/bg.jpg);
+	background-repeat: repeat;*/
+	color: #b08b57;
+	text-align: center;
+	background-color: #000066;
+	/*border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;*/
+}
+div#sidegallery{
+	position: relative;
+	width: auto;
+	height: auto;
+	margin-top: 400px;
+	
+}
+/*div#divider {
+background: url(images/background/divider.png) repeat-x scroll 0 0 transparent;
+width: auto;
+height: 31px;
+
+}*/

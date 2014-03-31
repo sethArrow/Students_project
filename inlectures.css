@@ -1,0 +1,10 @@
+
+div.item {
+	background-image: url(images/background/lectbg.jpg);
+	display: inline-block;
+	float: none;
+	margin: 5px 0 5px 10px;
+	vertical-align: top;
+	width: 250px;
+	
+}

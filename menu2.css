@@ -1,0 +1,179 @@
+div#photogallery {
+	height: 300px;
+	width: 740px;
+	margin: 0px 0px 0px 231px;
+	padding: 0px;
+	padding-left: 10px;
+	border: solid #000066 5px;
+}
+
+div#ugoridlogo {
+	height: 70px;
+	width: 990px;
+	padding: 0px;
+	margin-top: 10px;
+	padding-bottom: 20px;
+	border: solid #12564c 0px;
+	margin: auto;
+}
+div#mainbody {
+	background-image: none;
+	background-repeat: repeat;
+	width: auto;
+	background-attachment: fixed;
+	margin: auto;
+	padding-top: 5px;
+/*background-color: #4169E1;*/
+}
+div#maincontent {
+	padding: 0px 0px;
+	margin: auto;
+	height: auto;
+	border: solid lightgrey 1px;
+	background-color: #FFF transparent;
+	width: 992px;
+	color: #12564c;
+	border-style: ridge;
+	/*-moz-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 2px #000;*/
+}
+
+#fillcolor2 {
+	width: 992px;
+	height: 30px;
+	background-image: none;
+	color: orange;
+	text-align: center;
+	/*border-top-left-radius: 10px;
+	border-top-right-radius: 10px;*/
+}
+
+div#welcomeheader {
+	width: auto;
+	height: 20px;
+	text-align: center;
+	/*font-style: oblique;*/
+	font-family: Trebuchet MS, Lucida Grande, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	word-spacing: 1ex;
+	background-image: none;
+	color: #000066;
+	padding-left: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: solid #b08b57 1px;
+}
+
+div#fill3 {
+	height: 5px;
+	width: auto;
+	background-image: none;
+	/*background-image: url(images/background/newdiv.png);
+	background-repeat: repeat;*/
+}
+
+div#content {
+	height: auto;
+	width: 750;					
+	border: solid lightgrey 1px;
+	margin: 0px 0px 0px 230px;
+	position: relative;
+	font-family: Candara, Trebuchet MS, Lucida Grande, sans-serif;
+	font-size: 12px;
+	padding-left: 0px;
+	padding-right: 0px;
+	color: #444444;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	text-align: justify;
+}
+
+div#subscr {
+	position: absolute;
+	width: 865px;
+	height: 180px;
+	border: solid #000066 0px;
+	margin: 20px 10px 0px 0px;
+	background-color: #FFF;
+}
+div#homesearch {
+	width: 760px;
+	height: 25px;
+	border: solid #000 0px;
+	position: relative;
+	/*background-image: url(images/background/newdiv.png);
+	background-repeat: repeat;*/
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	margin-top: 0px;
+}
+
+div#ughome {									
+	position: absolute;
+	height: 25px;
+	width: 100px;
+	border: solid #000 0px;
+	text-align: left;
+	padding-left: 0px;
+}
+div#search {
+	position: absolute;
+	height: 25px;
+	width: 350px; 
+	border: solid #000 0px;
+	margin: 1px 0px 0px 640px;
+}
+div#lefttab{
+	width: 200px;
+	height: 160px;
+	color: orange;
+	border-style: outset;
+	text-align: center;
+	margin: 10px 0px 0px 0px;
+	border: solid #87CEFA 1px;
+	position: absolute;
+}
+
+/* Link style for list Items in form page */
+
+.clink a {
+	color: #000066;
+	
+}
+
+.clink a:hover {
+	color: blue;
+	font-weight: bold;
+}
+
+div#fill2 {
+	border: solid #ffffff 0px;
+	width: auto;
+	
+	margin: auto;
+	/*background-image: url(images/background/newdiv.png);
+	background-repeat: repeat;*/
+}
+
+/* Vertical Menu Display */
+#button {
+	width: 160px;
+	margin-top: 0px;
+	position: absolute;
+	height: auto;
+	border: solid #000 0px;
+}
+
+#footer {
+	width: auto;
+	height: 30px;
+	background-image: none;
+	background-color: #000066;
+	color: #b08b57;
+	text-align: center;
+	position: relative;
+	/*border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;*/
+}

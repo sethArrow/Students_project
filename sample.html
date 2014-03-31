@@ -1,0 +1,18 @@
+<html>
+  <head><title>...</title>
+    <script type="text/javascript">
+      function foo() {
+        var f = document.getElementById("f1");
+        alert( ""==f.value ? "no or some files have not been attached" : "files attached");
+      }
+    </script>
+  </head>
+  <body>
+    <form>
+      <div>
+        <input id ="f1" type="file" name="x" />
+      </div>
+    </form>
+    <button onclick="foo()">click</button>
+  </body>
+</html>
